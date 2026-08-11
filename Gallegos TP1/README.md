@@ -1,0 +1,6 @@
+1. Use la etiqueta "h1" al pricipio para aclarar de que tema iba a ser la página en sí. En este caso sobre mí persona.
+2. Yo uso la etiqueta "ul" para cuando quiero poner sólo cosas que me gustan sin tener orden alguno o "al azar", como lo sería en el "Sector 1".
+En cambio, uso la etiqueta "ol" cuando quiero poner las cosas que me gustan, en un orden específico, coo lo puede ser el que más me gusta al menos (pero obiviamente dentro de mis favoritos). Como en los sectores 2 y 3.
+3. Es importante el "alt" porque cuando la imagen tuvo un error puedes detactarlo fácilmente, además, deja un indicio de donde debería de estar la imagen.
+4. Mis imágenes usan ruta relativa, debido a que es más fácil de escribir porque es mucho más corta que la absoluta (esta última pone todos los archivos, desde los users).
+5. La diferencia entre las etiquetas "strong2 y "em" es que la strong hace que las letras sean de un color negro más fuerte haciéndolas más llamativas, mientras la em hace que las letras estén en cursiva, dándole más personalidad al texto.
